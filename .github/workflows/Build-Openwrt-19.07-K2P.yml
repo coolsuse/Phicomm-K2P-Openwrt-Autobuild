@@ -10,7 +10,7 @@ on:
     types: [published]
   push:
    branches:
-      - master
+     - master
     paths:
       - "K2P-19.07.config"
   #  schedule:
