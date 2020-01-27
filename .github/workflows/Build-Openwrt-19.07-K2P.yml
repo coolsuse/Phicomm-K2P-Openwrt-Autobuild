@@ -12,7 +12,7 @@ on:
    branches:
      - master
     paths:
-      - "K2P-19.07.config"
+     - "K2P-19.07.config"
   #  schedule:
   #    - cron: 0 8 * * 5
   watch:
